@@ -45,8 +45,9 @@ Specifics of the format and expectations regarding the graded items related to t
 
 | Grade item               | Due         | Percent |
 | ------------------------ | ----------- | ------- |
-| Assignment 1             | Sep 23      | 10      |
-| Assignment 2             | Oct 07      | 10      |
+| Assignment 1a             | Sep 24     | 5      |
+| Assignment 1b             | Oct 01     | 5      |
+| Assignment 2             | Oct 08      | 10      |
 | Mid-term                 | Oct 23      | 30      |
 | Student project proposal | Oct 30      | 5       |
 | Project presentation     | Week Nov 25 | 10      |
