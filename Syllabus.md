@@ -10,7 +10,7 @@ Course outline Fall Term 2024
 
 **Course on ARC Mattermost:** http://206.12.91.127:8066/arc-news/channels/a501-24
 
-**Class times:** Mon, Wed 9:00-10:30am (this may likely be changed in first class)
+**Class times:** Wed 9:00-12:00pm, BWC A107
 
 ## Course content
 
