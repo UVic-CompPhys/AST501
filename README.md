@@ -25,4 +25,6 @@ Homework for next week: Read section 2 in _Evolution of solar and intermediate-m
 
 ## Week 6
 * finish slides part 1 and 2
-Homework: Read some of the review artiles on massive stars in the Resources directory
+
+### Homework: 
+Read some of the review artiles on massive stars in the Resources directory
