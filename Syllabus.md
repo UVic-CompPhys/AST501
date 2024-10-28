@@ -49,7 +49,8 @@ Specifics of the format and expectations regarding the graded items related to t
 | Assignment 1b             | Oct 01     | 5      |
 | Assignment 2             | Oct 08      | 10      |
 | Mid-term                 | Oct 23      | 30      |
-| Student project proposal | Oct 30      | 5       |
+| Student project proposal presentation | Oct 30      | 0     |
+| Student project proposal | Nov 4      | 5    |
 | Project presentation     | Week Nov 25 | 10      |
 | Project report           | Dec 17      | 35      |
 
