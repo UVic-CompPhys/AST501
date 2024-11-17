@@ -51,7 +51,7 @@ Specifics of the format and expectations regarding the graded items related to t
 | Mid-term                 | Oct 23      | 30      |
 | Student project proposal presentation | Oct 30      | 0     |
 | Student project proposal | Nov 4      | 5    |
-| Project presentation     | Week Nov 25 | 10      |
+| Project presentation     | Nov 27 | 10      |
 | Project report           | Dec 17      | 35      |
 
 These dates are approximate at the time of writing and may be adjusted in consultation with students.
