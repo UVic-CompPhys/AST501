@@ -32,6 +32,8 @@ Here are some key points to consider that I will use in finding my grade:
 
 * Answer questions appropriately
 
+* The presentation should be 15-20min long, and there will be a question period of 10-15min
+
 ### How to submit your work
 
 Make a **channel on Mattermost** with the name `ASTR501_24_projectname` and submit your presentation slides to that channel. Add all class students to your channel. All discussions regarding your project will take place in that channel. As the project progresses you can post intermediate results or questions to the channel. You can use the channel as a log of your work, posting for example references, or intermediate results you don't want to forget. When you write up your report or prepare your final presentation those posts may be very useful. 
@@ -69,6 +71,14 @@ Some variations are possible here, But in general this section describes the met
 This is the key section of the paper. The main results are described. Figures appear in the order in which they are called out. Figure labels and legends have at most one size down in font size compared to the text of the paper. Figure captions describe what can be seen in the figure, not the meaning or implication of what is shown. That is described in the text. Conversely, in the text you do not describe what can be seen in the figures, e.g. _the blue dashed line shows ..._ or _as can be seen from the blue-dashed line ..._. This belongs in the figure caption. Figure lines need to be distinguished with shape, colour and if appropriate with markers. Use colorblind friendly colors. 
 
 Understand that many people will "read" your paper by reading the title, the abstract and look at the figures, so select your figures carefully. It should be possible to get the main point of a paper from the abstract and the figures. The sequence of figures should tell the main story. Imagine you put just the figures on a poster and go to a conference. Can you tell the story of the paper by just discussing the results shown in the figures one after another? The text is mostly there to justify your claims and deal with the doubters. Results are not discussed in any major fashion. 
+
+* Benchmark model
+  * RGB extra-mixing in the 1.2Msun stellar model
+  * AGB extra mixing as function of thermal pulse phase
+* Impact of modeling assumptions
+  * PDFCZ overshooting
+  * Mass loss
+  * [ ] Different initial mass, e.g. one above the limiting mass for He-core flash, 1.8 or 2
 
 #### Discussion and conclusion
 The discussion includes a comparison with results from others, and it assesses in how far the goals of the paper have been accomplished. It may start with a brief summary of key results, can be done in a bullet list.
